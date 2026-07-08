@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Headshot placeholder</title>
+  <desc id="desc">A neutral professional placeholder image to replace with a student headshot.</desc>
+  <rect width="600" height="600" fill="#e6f1ef"/>
+  <circle cx="300" cy="236" r="92" fill="#0f766e"/>
+  <path d="M142 520c18-112 86-172 158-172s140 60 158 172z" fill="#243b53"/>
+  <text x="300" y="548" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#ffffff">YOUR PHOTO</text>
+</svg>

@@ -1,0 +1,38 @@
+---
+title: "Lead Follow-Up Sequence"
+description: "A lifecycle project for turning car inquiries into appointments, test drives, and closed sales."
+date: 2026-02-20
+categories: [Lifecycle, CRM, Close Rate]
+image: ../assets/argtech-sales-dashboard.png
+---
+
+## Business Question
+
+How can Arg Tech turn digital inquiries into appointments, test drives, and closed vehicle sales?
+
+## Campaign Design
+
+The sequence uses three segments: new subscribers, engaged subscribers, and inactive subscribers. Each group receives different messaging based on behavioral signals such as signup source, first click, and previous purchase or inquiry activity.
+
+| Email | Goal | Primary KPI |
+|---|---|---|
+| Welcome | Confirm value proposition | Open rate |
+| Education | Explain benefits and use cases | Click-through rate |
+| Proof | Build trust with case evidence | Content engagement |
+| Offer | Prompt next action | Conversion rate |
+| Re-engagement | Recover inactive users | Return visit rate |
+
+## Testing Plan
+
+The first A/B test compares benefit-led subject lines against urgency-led subject lines. A second test compares a single call to action against multiple content links.
+
+## Recommendation
+
+Use behavior-based branching after the second email. Subscribers who click educational content should receive proof and comparison messaging, while subscribers who do not click should receive a shorter value reminder before the offer.
+
+## Employer-Relevant Skills
+
+- Lifecycle journey planning
+- Segmentation logic
+- Email KPI selection
+- A/B testing design

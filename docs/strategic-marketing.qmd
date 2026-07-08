@@ -1,0 +1,49 @@
+---
+title: "Strategic Marketing"
+description: "Strategic marketing, brand positioning, market research, and competitive analysis work."
+---
+
+## Brand Audit and Positioning
+
+This section demonstrates strategic marketing judgment beyond dashboard reporting. It highlights how I evaluate brand positioning, audience fit, competitive context, and messaging opportunities.
+
+## Positioning Statement
+
+For hiring managers, recruiters, and business contacts evaluating early-career marketing talent, this portfolio presents Marcos Anton as a candidate who can connect business operations with measurable digital marketing execution. Unlike a resume-only profile, the website shows campaign thinking, analytics fluency, technical communication, and entrepreneurial direction.
+
+## Business Direction
+
+I started my own business and intend to add digital marketing services that help small businesses improve visibility, lead generation, customer relationships, and campaign performance.
+
+## Competitive Benchmarking
+
+| Brand or Competitor | Strength | Opportunity | Strategic Implication |
+|---|---|---|---|
+| Competitor A | Strong awareness content | Weak conversion path | Build clearer calls to action |
+| Competitor B | Polished social proof | Thin SEO coverage | Create search-friendly comparison content |
+| Competitor C | Strong paid traffic | Limited retention messaging | Improve lifecycle and email strategy |
+
+## Portfolio Example Benchmark
+
+I pulled public HTML structure from two Quarto portfolio examples to benchmark navigation, resume pages, and content organization. The goal is to model structure, not copy wording.
+
+| Example Source | Useful Pattern | How I Apply It |
+|---|---|---|
+| [Lucynda Young portfolio](https://cynyng.github.io/portfolio/) | Clear home page, digital marketing tab, marketing analytics tab, presentation, resume, and website analytics. | Keep my site organized around analytics projects, dashboard, presentation, resume, and GA4 measurement. |
+| [Jeffrey Hsu resume page](https://hsujeffrey.github.io/hsu-website-portfolio/resume.html) | Resume page includes a PDF download, professional summary, education, experience, and skills. | Use a clickable resume page with PDF/DOCX downloads and sections for education, experience, certificates, and skills. |
+
+The extracted benchmark dataset is saved in [`data/portfolio-example-benchmark.csv`](data/portfolio-example-benchmark.csv), and the reproducible extraction script is saved in [`data/pull-html-examples.R`](data/pull-html-examples.R).
+
+## Skills Demonstrated
+
+- Brand analysis
+- Competitive benchmarking
+- Strategic communication
+- Market positioning
+- Customer journey thinking
+
+## Embedded Proof
+
+The sample report below mirrors the PDF template's recommendation to embed evidence such as an SEO or benchmarking export.
+
+<iframe class="proof-frame" src="data/seo-benchmarking-report.html" title="SEO benchmarking report"></iframe>

@@ -1,0 +1,38 @@
+---
+title: "Google Ads Lead Engine"
+description: "A case study using vehicle demand, cost per lead, and sales signals to prioritize automotive ad spend."
+date: 2026-04-15
+categories: [Google Ads, Sales Funnel, Marketing Analytics]
+image: ../assets/argtech-ad-strategy.png
+---
+
+## Business Question
+
+Which Google Ads campaigns should Arg Tech prioritize to generate qualified buyers for sedans, SUVs, trucks, hybrids, and luxury vehicles?
+
+## Data Used
+
+The analysis uses modeled class-project data with ad spend, leads, cost per lead, sales, and ROAS signals by vehicle segment.
+
+| Vehicle Segment | Ad Spend | Leads | Cost Per Lead | Sales |
+|---|---:|---:|---:|---:|
+| SUVs | $2,400 | 112 | $21.43 | 8 |
+| Trucks | $1,850 | 76 | $24.34 | 6 |
+| Sedans | $1,250 | 88 | $14.20 | 4 |
+| Hybrids | $1,100 | 44 | $25.00 | 3 |
+| Luxury | $900 | 21 | $42.86 | 1 |
+
+## Analysis
+
+Branded search produced the strongest ROAS but had limited scale. Non-branded campaigns generated the highest conversion volume and still met the target CPA range. Competitor search had the weakest efficiency and needed tighter query exclusions, lower bids, or a clearer landing page match.
+
+## Recommendation
+
+Shift 15 percent of competitor campaign spend into high-intent non-branded ad groups and retargeting search. Preserve branded coverage, but avoid over-investing where incremental demand is limited.
+
+## Employer-Relevant Skills
+
+- Paid media KPI interpretation
+- ROAS and CPA tradeoff analysis
+- Budget reallocation logic
+- Recommendation writing for campaign managers

@@ -1,0 +1,37 @@
+---
+title: "Trust Content Dashboard"
+description: "A reporting project that translates inspection, repair, and vehicle walkaround content into buyer confidence."
+date: 2026-01-30
+categories: [Social Media, Trust, Automotive Content]
+image: ../assets/argtech-operations-bay.png
+---
+
+## Business Question
+
+Which Arg Tech content themes are most effective at building trust and motivating buyers to request more information?
+
+## Dashboard Metrics
+
+The dashboard compares content pillars using reach, saves, comments, profile visits, link clicks, engagement rate, and click-through rate.
+
+| Content Pillar | Engagement Rate | Link CTR | Recommendation |
+|---|---:|---:|---|
+| Educational Tips | 6.2% | 1.8% | Scale |
+| Student Stories | 5.7% | 1.1% | Continue |
+| Event Promotions | 3.1% | 2.4% | Improve creative |
+| Trend Posts | 7.4% | 0.6% | Use selectively |
+
+## Insight
+
+Trend posts generated the highest engagement rate but did not move visitors to owned channels. Educational tips produced a better balance of engagement and link behavior, making them a stronger candidate for repeatable content planning.
+
+## Recommendation
+
+Use educational tips as the core weekly content pillar, keep student stories for brand trust, and redesign event promotion posts with clearer calls to action.
+
+## Employer-Relevant Skills
+
+- Social KPI interpretation
+- Dashboard storytelling
+- Content performance analysis
+- Channel recommendations

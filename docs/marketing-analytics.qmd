@@ -1,0 +1,15 @@
+---
+title: "Arg Tech Marketing Analytics"
+description: "Auto-gallery of automotive digital marketing analytics projects and Arg Tech case studies."
+listing:
+  contents: listings
+  type: grid
+  fields: [image, date, title, description, categories]
+  sort: "date desc"
+  categories: true
+  page-size: 10
+---
+
+Below are selected Arg Tech projects using modeled data to drive automotive marketing decisions. Each case study is organized around a business question, performance metrics, analysis, recommendations, and employer-relevant skills.
+
+These examples use class-project planning data to show how digital marketing, Google Ads, Facebook Marketplace, and GA4 can support car sales. The modeled vehicle-segment data is available in [`data/argtech-sales-model.csv`](data/argtech-sales-model.csv).

@@ -1,0 +1,21 @@
+---
+title: "Marketing Projects"
+description: "Blog-style case studies for digital marketing and marketing analytics projects."
+listing:
+  contents: listings
+  type: grid
+  fields: [image, date, title, description, categories]
+  sort: "date desc"
+  categories: true
+  page-size: 8
+---
+
+The projects below show how I approach digital marketing work: start with a business question, select relevant metrics, analyze performance data, and recommend next actions. The sample projects use simulated or class-created data and should be replaced with your own course, internship, or client work when available.
+
+For the professor's template structure, the main auto-gallery also appears on [Marketing Analytics](marketing-analytics.html), while brand and positioning work appears on [Strategic Marketing](strategic-marketing.html).
+
+::: {.callout-note}
+## Portfolio Positioning
+
+For a digital marketing role, emphasize campaign planning, content decisions, channel execution, and creative testing. For a marketing analytics role, emphasize data preparation, KPI design, dashboarding, and recommendations from performance metrics.
+:::

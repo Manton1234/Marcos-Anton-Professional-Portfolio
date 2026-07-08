@@ -1,0 +1,48 @@
+---
+title: "Google Analytics"
+description: "GA4 measurement plan and SEO readiness notes for Arg Tech automotive sales and portfolio credibility."
+---
+
+## Measurement Objectives
+
+| Objective | Example Event | Why It Matters |
+|---|---|---|
+| Vehicle interest | `vehicle_view` | Shows which inventory or segment attracts attention |
+| Marketplace movement | `marketplace_click` | Tracks cross-channel shopper behavior |
+| Contact intent | `call_click` or `email_click` | Measures direct lead actions |
+| Purchase readiness | `test_drive_request` | Tracks high-intent buyer behavior |
+| Portfolio review | `presentation_download` | Signals technical portfolio engagement |
+
+## UTM Naming Standard
+
+Use lowercase, hyphenated values so campaign performance is easy to compare.
+
+| Field | Example |
+|---|---|
+| Source | `google_ads` |
+| Medium | `cpc` |
+| Campaign | `suv_inventory_launch` |
+| Content | `clean_title_suv` |
+
+Example URL:
+
+```text
+https://manton1234.github.io/digital-marketing-portfolio/?utm_source=google_ads&utm_medium=cpc&utm_campaign=suv_inventory_launch&utm_content=clean_title_suv
+```
+
+## SEO Readiness
+
+- Each page has a descriptive title and description.
+- The site has a clear target audience: professors, hiring managers, clients, and potential automotive business partners.
+- Navigation labels match employer expectations.
+- Project titles include relevant keywords such as Google Ads, Facebook Marketplace, automotive sales, GA4, dashboard, and analytics.
+- The `site-url` field is included so Quarto can generate correct canonical links after deployment.
+- `robots.txt` allows search engines to crawl the site.
+
+## Launch QA
+
+- Confirm the deployed GitHub Pages URL loads on desktop and mobile.
+- Verify every navigation link works.
+- Confirm profile, GitHub, LinkedIn, and contact values are current.
+- Check that the dashboard renders and charts are visible.
+- Create a real GA4 property after publishing, then run a real-time report test.

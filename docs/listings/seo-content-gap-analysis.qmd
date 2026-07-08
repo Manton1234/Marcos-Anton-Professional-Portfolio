@@ -1,0 +1,37 @@
+---
+title: "Marketplace Listing Strategy"
+description: "A listing strategy project for improving vehicle photos, pricing, buyer trust, and lead quality."
+date: 2026-03-28
+categories: [Marketplace, Listings, Lead Quality]
+image: ../assets/argtech-marketplace-listings.png
+---
+
+## Business Question
+
+Which vehicle listing improvements should Arg Tech prioritize to improve buyer trust and local lead quality?
+
+## Approach
+
+The project groups keywords by customer journey stage, compares current page coverage against competitor coverage, and scores topics using search intent, ranking difficulty, estimated traffic, and commercial relevance.
+
+| Topic Cluster | Intent | Current Coverage | Priority |
+|---|---|---|---|
+| Product comparison | Consideration | Weak | High |
+| Beginner guide | Awareness | Moderate | Medium |
+| Pricing questions | Decision | Weak | High |
+| Use-case examples | Consideration | Missing | High |
+
+## Insight
+
+The strongest opportunity sits in consideration-stage content. Visitors are not only learning the category; they are comparing options and looking for practical examples. Pages that answer comparison and pricing questions can support both SEO traffic and sales readiness.
+
+## Recommendation
+
+Create a three-page content series: comparison guide, pricing FAQ, and use-case article. Each page should include internal links to related resources and a clear conversion path to a demo, consultation, or email signup.
+
+## Employer-Relevant Skills
+
+- Keyword grouping
+- Search intent analysis
+- Content prioritization
+- SEO recommendations tied to business goals

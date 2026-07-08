@@ -1,0 +1,38 @@
+---
+title: "GA4 Sales Measurement Plan"
+description: "A measurement plan defining inventory, contact, marketplace, and test-drive conversion events."
+date: 2026-05-08
+categories: [GA4, Attribution, Sales Measurement]
+image: ../assets/argtech-sales-dashboard.png
+---
+
+## Business Question
+
+How should Arg Tech measure high-intent automotive shoppers across inventory pages, ads, marketplace links, and test-drive requests?
+
+## Measurement Strategy
+
+The plan defines the visitor actions that matter most for a career portfolio: project views, resume clicks, presentation views, outbound LinkedIn clicks, and email clicks.
+
+| Event | Trigger | Business Meaning |
+|---|---|---|
+| `project_view` | Visitor opens a case study | Interest in work samples |
+| `resume_click` | Visitor opens the PDF resume | Recruiter intent |
+| `presentation_view` | Visitor opens the Revealjs deck | Technical communication interest |
+| `linkedin_click` | Visitor clicks LinkedIn | Professional follow-through |
+| `email_click` | Visitor clicks email | Direct contact intent |
+
+## Analysis Plan
+
+Review traffic source, landing page, engagement time, and event completion rate. Use UTM tags for LinkedIn posts, class submissions, QR codes, and email signatures so each traffic source can be evaluated cleanly.
+
+## Recommendation
+
+Prioritize events that show employer intent rather than vanity traffic. A smaller number of highly engaged portfolio visits is more valuable than broad traffic with no project, resume, or contact actions.
+
+## Employer-Relevant Skills
+
+- GA4 event planning
+- Conversion definition
+- UTM governance
+- SEO and portfolio measurement

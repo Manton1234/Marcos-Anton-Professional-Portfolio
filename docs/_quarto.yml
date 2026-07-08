@@ -1,0 +1,66 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - robots.txt
+    - sitemap.xml
+
+website:
+  title: "Marcos Anton | Digital Marketing Portfolio"
+  site-url: "https://manton1234.github.io/digital-marketing-portfolio/"
+  description: "Marcos Anton's professional portfolio for digital marketing, marketing analytics, dashboards, and campaign performance projects."
+  repo-url: "https://github.com/Manton1234"
+  search: true
+  navbar:
+    title: "Marcos Anton"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: marketing-analytics.qmd
+        text: Marketing Analytics
+      - href: strategic-marketing.qmd
+        text: Strategic Marketing
+      - href: dashboard.qmd
+        text: Dashboard
+      - href: projects.qmd
+        text: Projects
+      - href: presentation.qmd
+        text: Presentation
+      - href: analytics.qmd
+        text: Google Analytics
+      - href: resume.qmd
+        text: Resume
+    right:
+      - icon: github
+        href: https://github.com/Manton1234
+        aria-label: GitHub
+      - icon: envelope
+        href: mailto:manton@cpp.edu
+        aria-label: Email
+  page-footer:
+    left: "Copyright 2026, Marcos Anton"
+    right:
+      - text: GitHub
+        href: https://github.com/Manton1234
+      - text: Email
+        href: mailto:manton@cpp.edu
+
+format:
+  html:
+    theme:
+      - cosmo
+      - theme.scss
+    toc: true
+    toc-location: right
+    code-copy: true
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+    page-layout: full
+
+execute:
+  freeze: auto
+  echo: true
+  warning: false
+  message: false

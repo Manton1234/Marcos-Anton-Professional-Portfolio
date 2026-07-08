@@ -1,0 +1,66 @@
+---
+title: "Resume"
+description: "Professional resume and profile details for a digital marketing portfolio."
+---
+
+## Marcos Anton
+
+**Marketing Major and Digital Marketing Candidate**  
+Fontana, CA | [manton@cpp.edu](mailto:manton@cpp.edu) | [GitHub](https://github.com/Manton1234)
+
+View the PDF resume [here](resume/Marcos-Anton-Resume.pdf).  
+View the Word resume [here](resume/Marcos-Anton-Resume.docx).
+
+## Education
+
+**Cal Poly Pomona**  
+Business Marketing Degree, Marketing Minor  
+Graduating Summer 2026
+
+Additional education: West Valley College, Business Management, Accounting, Liberal Arts Sciences, 2019. Certificate (MSc): Technology Management, University of Pretoria, 2018.
+
+## Skills
+
+| Area | Tools and Capabilities |
+|---|---|
+| Digital Marketing | Google Ads, digital marketing, e-commerce, outreach, SEO planning, paid search |
+| Analytics | GA4 measurement planning, KPI design, funnel analysis, dashboard reporting |
+| Operations | Project management, dispatching, preventive maintenance programs, vendor coordination |
+| Business | Inventory control, supply chain coordination, auditing, process improvement, team leadership |
+
+## Experience
+
+**Tech 24, Ontario**  
+Supervisor, Project Management, Dispatching | 2023 - 2025
+
+- Managed PM dispatching and maintenance operations for high-profile commercial accounts including Amazon, Google, LinkedIn, Playa Vista, and 7-Eleven.
+- Developed preventive maintenance programs to reduce downtime and improve operational efficiency.
+- Coordinated cross-functional teams, procurement, spare parts inventory, safety procedures, inspections, and emergency maintenance response.
+
+**Akins Body Shop, Palo Alto**  
+Parts Management / Inventory | 2020 - 2022
+
+- Improved inventory systems, reducing stock outs by 20% and excess inventory by 15%.
+- Coordinated with 25-30 vendors to maintain timely parts delivery and a consistent supply chain.
+- Conducted audits, resolved discrepancies, generated stock reports, and improved receiving, storing, and issuing procedures.
+
+**Uber Headquarters, San Francisco**  
+Recruiter / Filing | 2018 - 2020
+
+- Led a team of 6 to develop and execute recruitment strategies.
+- Enrolled 300 individuals into the Uber Driver Program through targeted outreach initiatives.
+- Used online and offline methods to attract candidates, conduct interviews, analyze recruitment data, and improve outreach processes.
+
+## Projects
+
+**Digital Marketing Portfolio Website**  
+Built a professional Quarto website with project case studies, a dashboard, a Revealjs presentation, SEO metadata, Google Analytics readiness, and clickable static HTML pages.
+
+**Campaign Performance Dashboard**  
+Created a dashboard using simulated campaign data to compare spend, revenue, conversions, and funnel movement across marketing channels.
+
+## Certifications
+
+- Google Ads Certificate
+- Digital Marketing Certificate
+- E-commerce Certificate

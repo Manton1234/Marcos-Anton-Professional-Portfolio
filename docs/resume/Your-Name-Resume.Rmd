@@ -1,0 +1,22 @@
+---
+name: Marcos
+surname: Anton
+position: "Marketing Major and Digital Marketing Candidate"
+email: manton@cpp.edu
+github: Manton1234
+output:
+  vitae::latexcv:
+    theme: classic
+---
+
+# Professional Summary
+
+Marketing major at Cal Poly Pomona graduating in Summer 2026, focused on digital marketing strategy, campaign analytics, web analytics, and entrepreneurship.
+
+# Education
+
+Cal Poly Pomona, Business Marketing Degree with Marketing Minor, Summer 2026.
+
+# Skills
+
+Google Ads, digital marketing, e-commerce, SEO, paid search, GA4, campaign reporting, Quarto, GitHub, project management, vendor coordination, and team leadership.
